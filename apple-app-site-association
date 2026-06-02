@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["YXN99D6577.com.vasu.sleepsounds.whitenoise.fannoise"],
+        "components": [
+          {
+            "/": "/story/*",
+            "comment": "Opens shared story deep links in the app"
+          }
+        ]
+      }
+    ]
+  }
+}
